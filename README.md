@@ -1,6 +1,6 @@
 ## ❤️ Welcome to my github page!</strong>
 
-> I'm a middle developer and also a designer. I do web development and web/graphic design.
+> I'm a middle developer and also a graph designer.
 ---
 
 ## 🚀 My knowledges
