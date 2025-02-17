@@ -10,4 +10,4 @@
 
 ## ⭐ Information about my activity in GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatcelt&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatcelt&show_icons=true&theme=dracula)
