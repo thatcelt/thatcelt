@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="typescript"  />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" alt="nodejs"  />
 </div>
-###
 
 <br clear="both">
 <img alt="github contribution grid snake animation" src="https://profile-readme-generator.com/assets/snake.svg" style="visibility: visible; max-width: 100%;">
-###
