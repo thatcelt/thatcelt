@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=thatcelt&theme=crt"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thatcelt&theme=shadow_red&show_icons=true" style="height: 250px"/>
 </div>
 
 ###
