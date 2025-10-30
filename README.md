@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=thatcelt&theme=shadow_red&show_icons=true" style="height: 200px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=thatcelt&theme=midnight-purple&show_icons=true" style="height: 200px"/>
 </div>
 
 ###
