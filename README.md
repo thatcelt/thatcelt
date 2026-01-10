@@ -11,4 +11,4 @@
 
 ###
 ## Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,elysia,prisma,vite,react,tailwindcss)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,ts,nodejs,elysia,prisma,vite,react,tailwindcss)
